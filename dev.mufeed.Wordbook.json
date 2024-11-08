@@ -95,6 +95,10 @@
           "url": "https://github.com/mufeedali/Wordbook.git",
           "tag": "0.4.0",
           "commit": "7d3d3cdd08fdb59332327f7fcfc185a4c93127cf"
+        },
+        {
+          "type": "patch",
+          "path": "fix-appdata.patch"
         }
       ]
     }
