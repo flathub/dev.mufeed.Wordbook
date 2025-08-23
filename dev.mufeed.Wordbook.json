@@ -155,8 +155,8 @@
         {
           "type": "git",
           "url": "https://github.com/mufeedali/Wordbook.git",
-          "tag": "0.5.0",
-          "commit": "265537544eb03d5d765b210a35bf9fc1e73fd392"
+          "tag": "0.5.1",
+          "commit": "ec99bda49534de601a17a9b3fc33d5be7977dfc8"
         }
       ]
     }
