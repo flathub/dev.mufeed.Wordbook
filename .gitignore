@@ -2,4 +2,4 @@
 .vscode/**
 .flatpak-builder/**
 _build/**
-.flatplay/**
+.flatplay/
